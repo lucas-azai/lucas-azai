@@ -6,9 +6,16 @@ Sou entusiasta de tecnologia e estou mergulhando no desenvolvimento de software,
 
 ## Minhas Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-azai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/azai_technomad/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-azai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/azai_technomad/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-azai&show_icons=true&theme=transparent) [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azai&layout=compact&langs_count=7&theme=tokyonight)
+
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/lucas-azai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-azai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azai&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 
