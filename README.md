@@ -6,15 +6,16 @@ Sou entusiasta de tecnologia e estou mergulhando no desenvolvimento de software,
 
 ## Minhas Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-azai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-azai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/azai_technomad/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff)]()
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/lucas_azai/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-azai&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-azai&show_icons=true&theme=transparent) (https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azai&layout=compact&langs_count=7&theme=tokyonight)
 
 
 
-
+## Linguagens
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)&nbsp;
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=823085)&nbsp;
 
 
 
