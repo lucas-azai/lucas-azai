@@ -8,12 +8,8 @@ Sou entusiasta de tecnologia e estou mergulhando no desenvolvimento de software,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-azai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/azai_technomad/) 
 
-## Teste
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azai&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-azai&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&rank_icon=github"/>
-</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-azai&show_icons=true&theme=transparent&rank_icon=github) 
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-azai&layout=compact&langs_count=7&theme=transparent)
 
 
 
